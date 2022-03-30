@@ -8,7 +8,7 @@ function setup() {
 
 function draw() {
 
-
+	background(0)
 
 
 if(mouseY >= height/2) {
