@@ -18,9 +18,6 @@ if(mouseY >= height/2) {
 else{
 
 	fill(12,108,57); //verde
-
-
-
 }
 
 
